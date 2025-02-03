@@ -1,1 +1,51 @@
-# V2ray-ssr
+# 【Github梯子精选】4款免费靠谱上外网手机梯子软件，附送手机V2ray/Ssr免费节点分享
+
+在外出行或者工作娱乐时候，若想访问Google、Facebook、Instagram、YouTube等外网，必须使用手机外网VPN翻墙。
+以下列出4款精选于Github的[免费手机外网梯子VPN](https://appletalking.cc/archives/2355)，都是通过个人实测，确保速度和连接性都在高水准范围内，并对其稳定性和网络安全进行比较，快来看看吧！
+
+### 1.DOVE—免费Android手机和IOS手机梯子
+### [点击直达官网](https://dove8.cc/a.php?alavBTtF8UB)
+
+![image](https://github.com/user-attachments/assets/718ac6ac-987a-4feb-a1c9-1865ee004ee6)
+
+DOVE加速器是一款基于云计算的综合性加速翻墙梯子平台，旨在帮助企业和开发者在数字产品的开发、测试和部署过程中实现更高 的效率和更快的响应速度。
+它融合了最新的lash/Shadowrocket/V2Ray技术，如人工智能GPT、机器学习和数据分析，为用户提供全面 的支持和优化方案。
+
+DOVE机场加速器提供各个端口的下载渠道，包括 iOS、Android、Windows 以及 Mac。
+
+DOVE加速器( 英文名称为DOVE cloud ，也被称之为DOVE机场)，是一款使用自主研发的加密协议的加速软件，使用中将全程隐藏用户 IP 地址，帮用户完美实现匿名翻墙上网。
+无论你是工作用还是娱乐用，更无论你是看视频还是玩游戏，DOVE加速器的极致网速都可以让你得到完美体验。
+
+DOVE加速器的网速表现非常好，我们以 YouTube 视频做过测试，从 Google 浏览器输入 YouTube 官网跳转，跳转速度非常快，
+首页视频的预览窗口几乎没有任何加载时间就能完美展示，点击视频即可高清画质播放，保底 1080P 没有任何问题。
+
+### 2.Tinny—免费手机和PC电脑梯子
+
+Tinny提供多达32个国家的节点供以选择，是适合手机和电脑翻墙使用的VPN。新用户用临时邮箱注册即可免费体验三天，到期后更换临时邮箱注册即可，
+适合外网游戏加速以及观看视频，如果你还在向网友们求一个梯子上外网，那这款有免费V2ray节点和免费SSR节点的梯子肯定适合你。
+
+### 3.Newlix
+
+Newlix拥有庞大的用户群体，广受好评。提供28个国家的服务器，覆盖160个不同地点，主打大流量稳定的科学上网VPN。
+同时，它的安全性非常高，能够加密用户的网络连接，并不保存用户的搜索记录，拥有它，您将不需要向任何人求一个梯子上外网。
+
+### 4.土豆云：稳定可靠的外网梯子加速器
+
+自2018年以来运营的低调老品牌丰富的中转与IPLC专线节点，覆盖国内多个接入点,支持Shadowsocks、V2ray、Trojan等多种协议
+
+土豆云机场自2022年创立，以优秀的用户口碑迅速建立了信誉，适合PC电脑和Android安卓苹果手机进行上外网加速。通过充分的带宽配置，现已积极推广，
+提供丰富的接入点，包括电信、联通和移动的多重选项，确保用户体验的稳定性和便捷性。
+
+#### 免费SSR节点分享：
+
+ssr://amlrZS1zaGx0LmRkbnMtb25seS54eXo6MzA1MDA6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpha3czTmxWS1pBLz9vYmZzcGFyYW09WlRjNVpqUTRPRFk0TVM1dGFXTnliM052Wm5RdVkyOXQmcHJvdG9wYXJhbT1PRGcyT0RFNlMwMWpiSEZhJnJlbWFya3M9VmpRdDVyS3E1cGF3NWI2dTZMMnY1THFSTURFJmdyb3VwPTVwNkI1YTZpNUxxUg
+
+ssr://dXMubjAxLnBhb3Bhb2Nsb3VkLmN5b3U6MTIzNDU6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2F1dGg6WkhObU1tUS8_b2Jmc3BhcmFtPU1tWmlNMkk1TVRjeE1TNXFaQzVvYXcmcHJvdG9wYXJhbT1PVEUzTVRFNlJrUnliRzVHJnJlbWFya3M9NDRDUWJIWXg0NENSVlZNd01TTXhNVGt3TWcmZ3JvdXA9Y0dGdmNHRnZZMnh2ZFdR
+
+ssr://amlrZS1qbXlkLmRkbnMtb25seS54eXo6MzA0NTA6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpha3czTmxWS1pBLz9vYmZzcGFyYW09T0RFM016azVNRGswT1M1dGFXTnliM052Wm5RdVkyOXQmcHJvdG9wYXJhbT1PVEE1TkRrNmJuVnhZbTFzWVhGdGJHbyZyZW1hcmtzPVZqUXQ1ckdmNXJpdlNFZERNREV0VGtZJmdyb3VwPTVwNkI1YTZpNUxxUg
+
+ssr://amlrZTEtZ3p5ZC5kZG5zLW9ubHkueHl6OjMxMzAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6ZVZRMlFXMDEvP29iZnNwYXJhbT1ZMk5sWWpBeE1ERTRNamt1YldsamNtOXpiMlowTG1OdmJRJnByb3RvcGFyYW09TVRBeE9ESTVPbWd6YjFKYWJRJnJlbWFya3M9U2tzeExWWTBMZVc1di1TX2hEQXgmZ3JvdXA9NXA2QjVhNmk1THFS
+
+ssr://aWVwbC5oay5zdG9oYS5yYXBpZGx5LmNsb3VkOjI2OTUwOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6VVVkS05VWkQvP29iZnMtcGFyYW09WWpnME1EQXpNRFF4Tmk1aWFXNW5MbU52YlEmcHJvdG9wYXJhbT1NekEwTVRZNllXTjVPRGQxTXpoek5YSSZyZW1hcmtzPVZXNXBkR1ZrSUZOMFlYUmxjeUF3TVNCOElFMWxaR2xoJmdyb3VwPVIzTnZkU0JEYkc5MVpB
+
+
